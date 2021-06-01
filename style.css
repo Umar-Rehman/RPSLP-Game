@@ -30,6 +30,13 @@ footer{
     bottom: 0;
     width: 100%;
     color: white;
-    padding-top: 1rem;
-    
+    padding: 0.5rem 0 0.5rem;
+}
+
+.custom{
+    color: #87CEEB;
+}
+
+.custom:hover{
+    color: #1985af;
 }
